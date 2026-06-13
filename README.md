@@ -1,4 +1,4 @@
-# Welcome to Rijk's portfolio \tab🌍🛰️
+# Welcome to Rijk's portfolio 🌍🛰️
 
 Hi, I'm Rijk, a master student in Geo-Information Science at Wageningen University & Research. I am interested in urban analysis and infrastructure planning. I combine a strong technical background with analytical skills, aiming to create meaningful impact around the world. This portfolio provides an insights into some projects from my academic career. Please feel free to contact me any time for questions or remarks.
 
